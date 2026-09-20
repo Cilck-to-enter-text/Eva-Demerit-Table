@@ -1,5 +1,22 @@
 {
   "version": 1,
-  "people": [],
-  "events": []
+  "people": [
+    {
+      "id": "eva",
+      "name": "Eva",
+      "score": -33
+    }
+  ],
+  "events": [
+    {
+      "id": "3d9e4ded-4849-445e-87a1-4eff44a36e39",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -33,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-20T10:17:20.018Z"
+    }
+  ]
 }
