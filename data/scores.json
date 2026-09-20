@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -5417
+      "score": -7417
     }
   ],
   "events": [
@@ -127,6 +127,26 @@
       "reason": "",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-20T13:24:47.674Z"
+    },
+    {
+      "id": "6a52dbbc-cd26-46b4-ac48-f01d003cbc8d",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-20T13:25:11.082Z"
+    },
+    {
+      "id": "76af377c-8876-49fe-a45b-28390e34f550",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-20T13:25:11.829Z"
     }
   ]
 }
