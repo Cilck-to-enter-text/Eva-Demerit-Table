@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -132
+      "score": -232
     }
   ],
   "events": [
@@ -37,6 +37,16 @@
       "reason": "太蠢了",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-20T10:19:24.388Z"
+    },
+    {
+      "id": "dd04a35d-f5d5-4d07-8e5a-42579f1d0fe3",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -100,
+      "reason": "太蠢了",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-20T10:19:27.324Z"
     }
   ]
 }
