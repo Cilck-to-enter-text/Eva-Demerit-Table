@@ -4,8 +4,19 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": 0
+      "score": -302
     }
   ],
-  "events": []
+  "events": [
+    {
+      "id": "071d9004-464d-4c6b-bbb6-155531e092cd",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -302,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-20T14:09:18.322Z"
+    }
+  ]
 }
