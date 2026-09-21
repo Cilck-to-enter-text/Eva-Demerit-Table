@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -31385
+      "score": -35909
     }
   ],
   "events": [
@@ -487,6 +487,56 @@
       "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T09:46:38.466Z"
+    },
+    {
+      "id": "12bc8967-fd8c-46f1-92e6-d27dfbf16297",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:46:39.140Z"
+    },
+    {
+      "id": "274c9950-4a3d-4cd1-9674-3a04332c80bf",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:46:39.710Z"
+    },
+    {
+      "id": "840362ab-8739-428f-acfa-31083c813785",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -524,
+      "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:46:40.044Z"
+    },
+    {
+      "id": "d7646474-d25a-4fd6-a975-ca4cc580e089",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:46:40.294Z"
+    },
+    {
+      "id": "fd569600-f1b4-44f8-bbb1-f0ad2c696f21",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:46:40.780Z"
     }
   ]
 }
