@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -157481
+      "score": -161601
     }
   ],
   "events": [
@@ -1757,6 +1757,66 @@
       "reason": "抢劫食品",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T09:48:53.628Z"
+    },
+    {
+      "id": "697da9a7-92d2-424b-88a8-30bf2ffe18ec",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -918,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:53.782Z"
+    },
+    {
+      "id": "8a92c261-84de-442a-99da-a182c18155fe",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -642,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:54.051Z"
+    },
+    {
+      "id": "3ff98a67-456f-4ecc-8766-c7a6a5bb2d27",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -400,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:54.244Z"
+    },
+    {
+      "id": "84b262b2-6088-42a7-94da-dc2f2c95c567",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -251,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:54.425Z"
+    },
+    {
+      "id": "10062b32-0158-48f8-9a29-31ce5aa5b708",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:54.638Z"
+    },
+    {
+      "id": "1a5b9118-aa19-43fb-b832-2f37949eb5eb",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -909,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:55.200Z"
     }
   ]
 }
