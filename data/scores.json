@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -224136.97
+      "score": -229136.97
     }
   ],
   "events": [
@@ -6377,6 +6377,56 @@
       "reason": "",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T10:35:28.397Z"
+    },
+    {
+      "id": "a1b62244-6230-4ab3-9449-263e1210a0f4",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:44:02.050Z"
+    },
+    {
+      "id": "caaabaad-2775-4f1f-9841-b7c04edf86e8",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:44:02.263Z"
+    },
+    {
+      "id": "c655e94e-6e89-49fe-9727-3aafd9e8f29d",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:44:02.472Z"
+    },
+    {
+      "id": "3d24d8f1-9d5f-407d-918f-303b29f86336",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:44:02.680Z"
+    },
+    {
+      "id": "061c9570-8971-4584-a074-50787de9ff41",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:44:02.765Z"
     }
   ]
 }
