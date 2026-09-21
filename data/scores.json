@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -9387
+      "score": -9386
     }
   ],
   "events": [
@@ -247,6 +247,16 @@
       "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T09:45:28.136Z"
+    },
+    {
+      "id": "6c66ae5f-7d37-4d52-a7c3-68ac26eb8a36",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": 1,
+      "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:45:36.004Z"
     }
   ]
 }
