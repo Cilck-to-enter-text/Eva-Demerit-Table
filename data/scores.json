@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -161601
+      "score": -161587
     }
   ],
   "events": [
@@ -1817,6 +1817,16 @@
       "reason": "抢劫食品",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T09:48:55.200Z"
+    },
+    {
+      "id": "bf8e89e6-45ca-453d-8c97-b214b5f75a62",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": 14,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:08.555Z"
     }
   ]
 }
