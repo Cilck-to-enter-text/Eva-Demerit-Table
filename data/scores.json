@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -976064.94
+      "score": -997064.94
     }
   ],
   "events": [
@@ -14007,6 +14007,216 @@
       "reason": "",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T10:45:03.499Z"
+    },
+    {
+      "id": "3f9d5fc0-e3f6-4948-bd1c-0df5539a97b0",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:57.243Z"
+    },
+    {
+      "id": "281ecf48-0bed-4e11-a947-8c42b9d91eac",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:57.462Z"
+    },
+    {
+      "id": "26f41908-965d-4de2-b057-2e4084527fab",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:57.677Z"
+    },
+    {
+      "id": "dbe551e0-fd7b-4539-9a5e-4c139ae84dab",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:57.888Z"
+    },
+    {
+      "id": "93393bc6-71f5-4ee8-b319-abce8809faea",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:57.986Z"
+    },
+    {
+      "id": "5b66f5b4-3d64-471a-a661-3aa1634c5583",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.083Z"
+    },
+    {
+      "id": "20c1d95e-f104-4f1b-9e37-77802af29674",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.173Z"
+    },
+    {
+      "id": "e4305778-b468-416f-927c-6c0bb8b70c18",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.266Z"
+    },
+    {
+      "id": "2cb2172d-b37a-4618-b79f-1eeadc8d0c5e",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.356Z"
+    },
+    {
+      "id": "fb5dccd0-a341-4aca-bea9-d429b0726aa1",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.450Z"
+    },
+    {
+      "id": "63113a0e-0547-4bbb-8d1b-640d4a074d17",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.545Z"
+    },
+    {
+      "id": "575e8dd3-1c4e-49d5-a3ac-be904e61da33",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.635Z"
+    },
+    {
+      "id": "eff78a91-cee8-4bdb-9cb3-192dcc4eb6f5",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.724Z"
+    },
+    {
+      "id": "69ad0897-0534-42b4-90ce-2c4638085e8c",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.813Z"
+    },
+    {
+      "id": "748984e7-262e-4df1-bafe-7fd0d35f9cee",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.863Z"
+    },
+    {
+      "id": "af338215-6f0d-467c-abcb-69d253806e02",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.913Z"
+    },
+    {
+      "id": "98387da1-78f4-4b4f-8dad-7992a13fa72e",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:58.966Z"
+    },
+    {
+      "id": "5033f64e-cd6b-4a3a-8656-9d7d31fc4d7b",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:59.015Z"
+    },
+    {
+      "id": "2b0cddce-9b05-4d77-b210-904344a3f1ba",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:59.065Z"
+    },
+    {
+      "id": "9950e3de-3a1f-4e21-9b41-3df8f0152243",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:59.115Z"
+    },
+    {
+      "id": "391e048a-b049-4663-b7f6-5fa59d6b1638",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T10:56:59.165Z"
     }
   ]
 }
