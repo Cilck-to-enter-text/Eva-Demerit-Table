@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -136909
+      "score": -141909
     }
   ],
   "events": [
@@ -1547,6 +1547,56 @@
       "reason": "EVA 今天对伟大的kim将军不敬！！！！！！！！！！！！！！！！！！！！",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T09:48:07.918Z"
+    },
+    {
+      "id": "9ea37b31-8b48-4a9a-b7ac-350089f11a3f",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:23.239Z"
+    },
+    {
+      "id": "c057de9c-c218-4a44-8bc2-deee067c5f75",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:23.396Z"
+    },
+    {
+      "id": "ecb8878c-89ba-4c64-aadd-d5c80f03a1de",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:23.539Z"
+    },
+    {
+      "id": "3f96dd6a-cf9c-4b8f-84bf-b33928852392",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:23.713Z"
+    },
+    {
+      "id": "87ed7c8c-b840-40d2-ad62-2138581f413e",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:48:23.862Z"
     }
   ]
 }
