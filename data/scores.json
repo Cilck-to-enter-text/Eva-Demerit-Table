@@ -4,7 +4,7 @@
     {
       "id": "eva",
       "name": "Eva",
-      "score": -166344
+      "score": -173287
     }
   ],
   "events": [
@@ -1897,6 +1897,76 @@
       "reason": "抢劫食品",
       "actor": "Cilck-to-enter-text",
       "at": "2026-09-21T09:49:36.718Z"
+    },
+    {
+      "id": "ab6459be-c664-4dc4-881b-8fea943235c8",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:36.855Z"
+    },
+    {
+      "id": "b300d602-e75c-4b2d-83a1-fb18700d0ace",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -995,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:37.451Z"
+    },
+    {
+      "id": "9621976c-6f05-4945-98a5-f78fa5dd35df",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:37.626Z"
+    },
+    {
+      "id": "5291ba3d-865e-4ec1-b45b-2bf873280921",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -982,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:38.270Z"
+    },
+    {
+      "id": "bfa5947d-7a09-4a40-80eb-a67c3873fb7d",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -983,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:38.426Z"
+    },
+    {
+      "id": "9cb2f209-7fc7-4476-aa4e-c0a3a8a106b3",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -983,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:38.586Z"
+    },
+    {
+      "id": "c7f27517-3683-4462-8e60-c9f82f041bdc",
+      "type": "delta",
+      "personId": "eva",
+      "name": "Eva",
+      "amount": -1000,
+      "reason": "抢劫食品",
+      "actor": "Cilck-to-enter-text",
+      "at": "2026-09-21T09:49:38.959Z"
     }
   ]
 }
